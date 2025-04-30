@@ -1,8 +1,13 @@
 {
-    "name": "CS3 PRO",
-    "description": "https://t.me/cloudstream_extension_vn",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://bom.so/cs3vn","https://bom.so/adaden","https://bom.so/adaden18","http://bom.so/v6Erls","http://bom.so/UlLb9F","http://bom.so/ODAFlA"
-    ]
+    "name": "CS3 PRO",
+    "description": "https://t.me/cloudstream_extension_vn",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://bom.so/cs3vn",
+        "https://bom.so/adaden",
+        "https://bom.so/adaden18",
+        "http://bom.so/v6Erls",
+        "http://bom.so/UlLb9F",
+        "http://bom.so/ODAFlA"
+    ]
 }
