@@ -3,6 +3,6 @@
     "description": "https://t.me/cloudstream_extension_vn",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://bom.so/cs3vn","https://bom.so/adaden","","https://bom.so/adaden18","",""
+      "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/repo.json","https://gitlab.com/tearrs/movie/-/raw/main/repo.json","","https://gitlab.com/tearrs/nsfw/-/raw/main/repo.json","",""
     ]
 }
